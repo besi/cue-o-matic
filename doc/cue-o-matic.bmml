@@ -1,0 +1,131 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="812" measuredH="476" mockupW="424" mockupH="243">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="388" y="233" w="424" h="243" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Switch" x="403" y="250" w="-1" h="-1" measuredW="49" measuredH="28" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::RoundButton" x="414" y="317" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14706278</color>
+        <shape>roundRect</shape>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::RoundButton" x="414" y="354" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16370588</color>
+        <shape>roundRect</shape>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::RoundButton" x="414" y="394" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>9684093</color>
+        <shape>roundRect</shape>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Icon" x="409" y="283" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <icon>hourglass-start%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Icon" x="425" y="283" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>check%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Icon" x="394" y="283" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <icon>power-off%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Icon" x="443" y="283" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <icon>wifi%7Cxsmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Component" x="466" y="234" w="42" h="241" measuredW="42" measuredH="241" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/symbols.bmml#Entry</src>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Component" x="508" y="234" w="42" h="241" measuredW="42" measuredH="241" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Licht%20B</text>
+        </override>
+        <override controlID="1">
+          <borderStyle>none</borderStyle>
+          <color>16777215</color>
+        </override>
+        <src>./assets/symbols.bmml#Entry</src>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Component" x="550" y="234" w="42" h="241" measuredW="42" measuredH="241" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="11" y="9" w="-1" h="-1">
+          <text>EinsatzFranz</text>
+        </override>
+        <override controlID="1" x="0" y="0" w="42" h="241"/>
+        <override controlID="2" x="8" y="195" w="-1" h="-1"/>
+        <src>./assets/symbols.bmml#Entry</src>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Component" x="592" y="234" w="42" h="241" measuredW="42" measuredH="241" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="11" y="9" w="-1" h="-1">
+          <text>SFX%20Falue%201</text>
+        </override>
+        <override controlID="1" x="0" y="0" w="42" h="241">
+          <color>16777215</color>
+        </override>
+        <override controlID="2" x="8" y="195" w="-1" h="-1"/>
+        <src>./assets/symbols.bmml#Entry</src>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Component" x="634" y="234" w="42" h="241" measuredW="42" measuredH="241" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="13" y="8" w="-1" h="-1">
+          <text>SFX%20Falue%202</text>
+        </override>
+        <override controlID="1" x="0" y="0" w="42" h="241"/>
+        <override controlID="2" x="8" y="195" w="-1" h="-1"/>
+        <src>./assets/symbols.bmml#Entry</src>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Component" x="676" y="234" w="42" h="241" measuredW="42" measuredH="241" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="11" y="9" w="-1" h="-1">
+          <text>Action%20Cam</text>
+        </override>
+        <override controlID="1" x="0" y="0" w="42" h="241">
+          <color>16777215</color>
+        </override>
+        <override controlID="2" x="8" y="195" w="-1" h="-1"/>
+        <src>./assets/symbols.bmml#Entry</src>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Component" x="718" y="234" w="42" h="241" measuredW="42" measuredH="241" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="13" y="10" w="-1" h="-1">
+          <text>Fahrrad</text>
+        </override>
+        <override controlID="1" x="0" y="0" w="42" h="241"/>
+        <override controlID="2" x="8" y="195" w="-1" h="-1"/>
+        <src>./assets/symbols.bmml#Entry</src>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Component" x="760" y="234" w="42" h="241" measuredW="42" measuredH="241" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="13" y="9" w="-1" h="-1">
+          <text>Molch%20Nr2</text>
+        </override>
+        <override controlID="1" x="0" y="0" w="42" h="241">
+          <color>16777215</color>
+        </override>
+        <override controlID="2" x="8" y="195" w="-1" h="-1"/>
+        <src>./assets/symbols.bmml#Entry</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
