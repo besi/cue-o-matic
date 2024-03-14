@@ -1,0 +1,9 @@
+[submodule "lib/pogo-connector"]
+	path = lib/pogo-connector
+	url = https://github.com/besi/kicad-pogo-connector
+[submodule "lib/charge-module"]
+	path = lib/charge-module
+	url = https://github.com/besi/kicad-charge-module
+[submodule "lib/esp-01m"]
+	path = lib/esp-01m
+	url = https://github.com/besi/kicad-esp-01m
